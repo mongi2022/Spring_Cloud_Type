@@ -1,0 +1,113 @@
+/wallet-service-unsecured/HELP.md
+/wallet-service-unsecured/target/
+/wallet-service-unsecured/!.mvn/wrapper/maven-wrapper.jar
+/wallet-service-unsecured/!**/src/main/**/target/
+/wallet-service-unsecured/!**/src/test/**/target/
+
+### STS ###
+/wallet-service-unsecured/.apt_generated
+/wallet-service-unsecured/.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+/wallet-service-unsecured/.idea
+/wallet-service-unsecured/*.iws
+/wallet-service-unsecured/*.iml
+/wallet-service-unsecured/*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+###front###
+
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Compiled output
+/wallet-front-angular-unsecured/dist
+/wallet-front-angular-unsecured/tmp
+/wallet-front-angular-unsecured/out-tsc
+/wallet-front-angular-unsecured/bazel-out
+
+# Node
+/wallet-front-angular-unsecured/node_modules
+/wallet-front-angular-unsecured/npm-debug.log
+/wallet-front-angular-unsecured/yarn-error.log
+
+# IDEs and editors
+/wallet-front-angular-unsecured/.idea/
+/wallet-front-angular-unsecured/.project
+/wallet-front-angular-unsecured/.classpath
+/wallet-front-angular-unsecured/.c9/
+/wallet-front-angular-unsecured/*.launch
+/wallet-front-angular-unsecured/.settings/
+/wallet-front-angular-unsecured/*.sublime-workspace
+
+# Visual Studio Code
+/wallet-front-angular-unsecured/.vscode/*
+/wallet-front-angular-unsecured/!.vscode/settings.json
+/wallet-front-angular-unsecured/!.vscode/tasks.json
+/wallet-front-angular-unsecured/!.vscode/launch.json
+/wallet-front-angular-unsecured/!.vscode/extensions.json
+/wallet-front-angular-unsecured/.history/*
+
+# Miscellaneous
+/wallet-front-angular-unsecured/.angular/cache
+/wallet-front-angular-unsecured/.sass-cache/
+/wallet-front-angular-unsecured/connect.lock
+/wallet-front-angular-unsecured/coverage
+/wallet-front-angular-unsecured/libpeerconnection.log
+/wallet-front-angular-unsecured/testem.log
+/wallet-front-angular-unsecured/typings
+
+# System files
+/wallet-front-angular-unsecured/.DS_Store
+/wallet-front-angular-unsecured/Thumbs.db
+
+###ebank###
+/ebank-service-unsecured/HELP.md
+/ebank-service-unsecured/target/
+/ebank-service-unsecured/!.mvn/wrapper/maven-wrapper.jar
+/ebank-service-unsecured/!**/src/main/**/target/
+/ebank-service-unsecured/!**/src/test/**/target/
+
+### STS ###
+/ebank-service-unsecured/.apt_generated
+/ebank-service-unsecured/.classpath
+/ebank-service-unsecured/.factorypath
+/ebank-service-unsecured/.project
+/ebank-service-unsecured/.settings
+/ebank-service-unsecured/.springBeans
+/ebank-service-unsecured/.sts4-cache
+
+### IntelliJ IDEA ###
+/ebank-service-unsecured/.idea
+/ebank-service-unsecured/*.iws
+/ebank-service-unsecured/*.iml
+/ebank-service-unsecured/*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
